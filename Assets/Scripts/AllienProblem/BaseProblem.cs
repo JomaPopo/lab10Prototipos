@@ -11,6 +11,7 @@ public abstract class BaseProblem : MonoBehaviour
     protected abstract void Start();
 
     protected List<Vector3> GetBodyPartPositions()
+
     {
         List<Vector3> bodyPartPositions = new List<Vector3>();
 
