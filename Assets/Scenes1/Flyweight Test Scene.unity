@@ -148,8 +148,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 50e79ff54bd40fa4bb8a86ae24d89abb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  NumberAlliens: 10000
-  NumberBodyParts: 10000
+  NumberAlliens: 5000
+  NumberBodyParts: 5000
 --- !u!4 &71807005
 Transform:
   m_ObjectHideFlags: 0
@@ -286,8 +286,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0fd22131ae9c2304c9714e6c9f2bc51a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  NumberAlliens: 10000
-  NumberBodyParts: 10000
+  NumberAlliens: 5000
+  NumberBodyParts: 5000
 --- !u!4 &726121733
 Transform:
   m_ObjectHideFlags: 0
@@ -350,7 +350,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &963491498
 MonoBehaviour:
   m_ObjectHideFlags: 0
